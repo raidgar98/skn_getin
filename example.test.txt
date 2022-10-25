@@ -3,3 +3,4 @@ ac/dc
 gorillaz
 metallica
 slayer
+danzel
